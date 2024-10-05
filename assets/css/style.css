@@ -225,7 +225,7 @@ input:focus {
     vertical-align: middle;
 }
 .for-bg {
-    /* padding: 153px 0 154px 70px; */
+    padding-right: 120px;
     h2 {
         margin: 153px 0 21px 70px;
         color: #f4f4f4;
@@ -385,8 +385,6 @@ input:focus {
         line-height: 28px;
         color: #1c1c1c;
     }
-}
-.events .news-card-item {
 }
 .events .for-center {
     margin: 0 auto;
